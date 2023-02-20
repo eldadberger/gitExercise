@@ -2,4 +2,8 @@ avira hapoel
 in branch1
 level 7 in clone2
 level 7 in clone1
+<<<<<<< HEAD
 level 9 in clone1
+=======
+level 9 in clone2
+>>>>>>> fb56af2 (level 9)
